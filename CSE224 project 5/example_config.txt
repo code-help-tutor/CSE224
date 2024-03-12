@@ -1,0 +1,7 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+{
+    "RaftAddrs": ["localhost:9007", "localhost:9008", "localhost:9009"],
+    "BlockAddrs": ["localhost:8080"]
+}
